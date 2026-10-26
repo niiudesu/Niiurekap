@@ -29,3 +29,4 @@ penyimpan data butuh paket npm yang harus di-install lewat Git atau CLI.
   serta saat tab dibuka kembali.
 - Kalau dua perangkat mengubah order yang sama, perubahan terbaru yang dipakai.
 - Data tetap tersimpan di perangkat bila internet putus, lalu disinkronkan ulang otomatis.
+- 
